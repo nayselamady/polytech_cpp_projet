@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/sons">
+        <file>paillettes.mp3</file>
+        <file>sf_laser_explosion.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>arme_redim.png</file>
+        <file>bg_redim.png</file>
+        <file>eolienne_redim.png</file>
+        <file>hero_redim.png</file>
+        <file>nucleaire_redim.png</file>
+        <file>petrole_redim.png</file>
+        <file>solar_redim.png</file>
+    </qresource>
+</RCC>
